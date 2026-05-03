@@ -41,3 +41,8 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] UX design scope confirmed and design tasks added to backlog (**UX Designer**)
+- [ ] CI/CD pipeline and environment plan confirmed (**DevOps Engineer**)
+- [ ] Security review scheduled or threat model drafted (**Security Champion**)
+- [ ] Success metrics and dashboard requirements defined (**Data Analyst**)
+- [ ] Complete [Cross-Functional Readiness Checklist](octoacme-cross-functional-readiness-checklist.md) before execution begins

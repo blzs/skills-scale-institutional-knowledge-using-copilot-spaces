@@ -29,6 +29,10 @@ OctoAcme follows a structured, iterative approach to project management built on
 | Developers | Implement features; collaborate on design, testing, and estimation |
 | QA/Testing | Validate quality and acceptance criteria |
 | Stakeholders | Provide inputs and approvals |
+| UX Designer | Shapes user experience; ensures usability and accessibility standards |
+| DevOps Engineer | Manages CI/CD pipelines, environments, deployments, and incident response |
+| Security Champion | Embeds security practices; owns threat modelling and security risk tracking |
+| Data Analyst | Defines metrics, builds dashboards, and delivers data-driven insights |
 
 ### Key Artifacts
 
@@ -51,3 +55,5 @@ OctoAcme follows a structured, iterative approach to project management built on
 - [Release & Deployment Guide](octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - [Roles & Personas](octoacme-roles-and-personas.md)
+- [Role RACI & Responsibility Checklist](octoacme-role-raci-checklist.md)
+- [Cross-Functional Readiness Checklist](octoacme-cross-functional-readiness-checklist.md)
