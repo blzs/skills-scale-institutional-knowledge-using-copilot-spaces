@@ -19,6 +19,12 @@ Applies to all cross-functional projects that deliver product features, services
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+- UX Designer: shapes user experience and ensures usability and accessibility standards.
+- DevOps Engineer: manages CI/CD pipelines, environments, deployments, and incident response.
+- Security Champion: embeds security practices across the lifecycle; owns threat modelling and security risk tracking.
+- Data Analyst: defines success metrics, builds dashboards, and delivers data-driven insights.
+
+> Not every project requires all roles. Use the [Role RACI & Responsibility Checklist](octoacme-role-raci-checklist.md) during initiation to confirm which roles are needed.
 
 ## Key Artifacts
 - Project Charter / One-pager

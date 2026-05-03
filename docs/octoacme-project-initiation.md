@@ -27,11 +27,16 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Primary stakeholders:
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
-- Proposed team / roles:
+- Proposed team / roles: *(consider: PM, PdM, Developers, QA, UX Designer, DevOps Engineer, Security Champion, Data Analyst)*
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] Required roles identified and availability confirmed (use the [Role RACI & Responsibility Checklist](octoacme-role-raci-checklist.md))
+- [ ] UX Designer engaged if project has user-facing components
+- [ ] DevOps Engineer consulted for infrastructure or deployment needs
+- [ ] Security Champion notified for projects handling sensitive data or new attack surfaces
+- [ ] Data Analyst engaged to confirm success metrics are measurable
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
